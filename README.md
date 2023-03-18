@@ -1,4 +1,4 @@
-<h1 align="center">hİ 👋, I am Hamit</h1>
+<h1 align="center">Hi 👋, I am Hamit</h1>
 <h3 align="center">A 14-year-old C# and full-stack web developer.</h3>
 
 - 🔭 I’m currently working on [Pluna Launcher](https://plunalauncher.ml/)
