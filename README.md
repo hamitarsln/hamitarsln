@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Pluna Launcher](https://plunalauncher.ml/)
 
-- 🌱 I’m currently learning **C#, PhP**
-
 - 🔭 I’m currently working on [Şut ve Gol](https://sutvegol.com.tr/)
 
 - 🔭 I’m currently working on [SistemNe?](https://github.io/)
+
+- 🌱 I’m currently learning **C#, PhP**
 
 - 👨‍💻 All of my projects are available at [http://hamittugrul.ml](http://hamittugrul.ml)
 
@@ -26,7 +26,7 @@
 <a href="https://twitter.com/hamit.arsln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamit.arsln" height="30" width="40" /></a>
 <a href="https://fb.com/hamit.arsln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamit.arsln" height="30" width="40" /></a>
 <a href="https://instagram.com/hamit.arsln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamit.arsln" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/youtubehamit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtubehamit" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@YoutubeHamit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtubehamit" height="30" width="40" /></a>
 <a href="https://discord.gg/Fafu53#9623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fafu53#9623" height="30" width="40" /></a>
 </p>
 
