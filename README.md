@@ -3,23 +3,17 @@
 
 - 🔭 I’m currently working on [Pluna Launcher](https://plunalauncher.ml/)
 
-- 🔭 I’m currently working on [Şut ve Gol](https://sutvegol.com.tr/)
+- 🔭 I’m currently working on [International Soccer Game](https://intlsoccergame.com/)
 
-- 🔭 I’m currently working on [SistemNe?](https://github.io/)
+- 🔭 I’m finished SistemNe?
 
 - 🌱 I’m currently learning **C#, PhP**
-
-- 👨‍💻 All of my projects are available at [http://hamittugrul.ml](http://hamittugrul.ml)
-
-- 📝 I regularly write articles on [http://hamittugrul.ml/blog](http://hamittugrul.ml/blog)
 
 - 💬 Ask me about **CSS, Html, C# .Net**
 
 - 📫 How to reach me **hamitarsln09@gmail.com**
 
-- 📄 Know about my experiences [http://hamittugrul.ml/experiences](http://hamittugrul.ml/experiences)
-
-- ⚡ Fun fact **I think I am funny and angry personb**
+- ⚡ Fun fact **I think I am funny and angry person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
