@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I am Hamit</h1>
 <h3 align="center">A 14-year-old C# and full-stack web developer.</h3>
 
-- 🔭 I’m currently working on [Pluna Launcher](https://plunalauncher.ml/)
+- 🔭 I’m currently working on [DevTalkLive](https://devtalklive.com/)
 
-- 🔭 I’m currently working on [International Soccer Game](https://intlsoccergame.com/)
+- 🔭 I’m currently working on [International Soccer Game](https://pyrenagames.com/)
 
 - 🔭 I’m finished SistemNe?
 
@@ -21,7 +21,7 @@
 <a href="https://fb.com/hamit.arsln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamit.arsln" height="30" width="40" /></a>
 <a href="https://instagram.com/hamit.arsln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamit.arsln" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@YoutubeHamit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtubehamit" height="30" width="40" /></a>
-<a href="https://discord.gg/Fafu53#9623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fafu53#9623" height="30" width="40" /></a>
+<a href="https://discord.gg/hamitizm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fafu53#9623" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
