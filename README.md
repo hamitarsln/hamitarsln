@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on [DevTalkLive](https://devtalklive.com/)
 
-- 🔭 I’m currently working on [International Soccer Game](https://pyrenagames.com/)
-
 - 🔭 I’m finished SistemNe?
 
-- 🌱 I’m currently learning **C#, PhP**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **CSS, Html, C# .Net**
+- 💬 Ask me about **JS, C#, .Net, PhP**
 
 - 📫 How to reach me **hamitarsln09@gmail.com**
 
