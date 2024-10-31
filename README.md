@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JS, Node.js, Express.js, React.js, C# .Net**
 
-- 📫 How to reach me **hamitarsln09@gmail.com**
+- 📫 How to contact with me **hamitarsln09@gmail.com**
 
 - ⚡ Fun fact **I think I am ambitious, funny and sometimes angry person**
 
