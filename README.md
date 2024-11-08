@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Hamit</h1>
 <h3 align="center">A 15-year-old full-stack web developer.</h3>
 
-- 🔭 I’m currently working on [DevTalkLive](https://devtalklive.com/)
+- 🔭 I’m currently working on [TalkLive](https://thetalk.live/)
 
 - 🌱 I’m currently learning **Socket.io**
 
