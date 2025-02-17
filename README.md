@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [TalkLive](https://thetalk.live/)
 
-- 🌱 I’m currently learning **Socket.io**
+- 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **JS, Node.js, Express.js, React.js, C# .Net**
+- 💬 Ask me about **JS, TS, Node.js, Express.js, JWT, MySQL, CI/CD,  MongoDB,  Rest, Zustand, Redux, React.js, C# .Net**
 
 - 📫 How to contact with me **hamitarsln09@gmail.com**
 
