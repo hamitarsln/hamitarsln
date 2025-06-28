@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I am Hamit</h1>
-<h3 align="center">A 15-year-old full-stack web developer.</h3>
+<h1 align="center">Hi, I am Hamit</h1>
+<h3 align="center">A 16-year-old full-stack web developer.</h3>
 
-- 🔭 I’m currently working on [TalkLive](https://thetalk.live/)
-
-- 🌱 I’m currently learning **C++**
-
-- 💬 Ask me about **JS, TS, Node.js, Express.js, JWT, MySQL, CI/CD,  MongoDB,  Rest, Zustand, Redux, React.js, C# .Net**
+- 🔭 I’m currently working on *Stealth Startup* :)
 
 - 📫 How to contact with me **hamitarsln09@gmail.com**
 
